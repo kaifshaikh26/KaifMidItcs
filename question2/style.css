@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-color: brown;
+    display: flex;
+    border: 100% solid black;
+}
+
+.side{
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: burlywood;
+    justify-content: space-between;
+}
+
+.header{
+        justify-content: space-between;
+        gap: 50px;
+}
